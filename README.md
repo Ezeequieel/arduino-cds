@@ -1,2 +1,2 @@
-# ARDUINO CóDIGOS
-Iluminación Inteligente y Girasol con ARDUINO
+# ARDUINO CóDIGOS (explicación)
+*Iluminación Inteligente y Girasol con ARDUINO*
