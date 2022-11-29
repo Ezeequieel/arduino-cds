@@ -1,4 +1,5 @@
-#💻| ARDUINO CóDIGOS (explicación)
+#ARDUINO CóDIGOS (explicación)
+
 Iluminación Inteligente y Girasol con ARDUINO
 
 → Girasól: *Como mencionamos en la descripción, el proyecto propondrá una innovación en el campo de Energías Renovables. Esta innovación consiste en un panel solar que "busca", por así decir, la luz solar para una mejor captación de esta; Esto genera que se pueda aprovechar el 100% de la radiación solar, y asi poder mantener la infraestructura del Mundial a base de Energía Limpia*
