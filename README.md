@@ -7,7 +7,7 @@ Iluminación Inteligente y Girasol con ARDUINO
 → Iluminación: *Como comentamos en la descripción del proyecto realizaremos una iluminación inteligente, esta consta con un sensor LDR que detecta la intensidad de la luz, al detectar la falta de iluminación, hace que la corriente pase por el led y este se prenda. A la izquierda mostraré una imagen relacionado con lo que vamos a hacer.*
 
 
-#🧃| A continuación imagenes de resultados/procesos/etc:
+- 🧃| A continuación imagenes de resultados/procesos/etc:
 
 ![unknown](https://user-images.githubusercontent.com/77803165/204405743-3443e3aa-8723-4981-88d5-b9d4890cf562.png)
 ![53660d40-fe2e-4f19-a635-4f103814a972](https://user-images.githubusercontent.com/77803165/204406282-0274090f-4fbc-46a5-a8a4-bdfa3ce0e71d.jpg)
